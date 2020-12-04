@@ -6,6 +6,9 @@ public class Main {
             System.out.println(i*i);
             System.out.println("Hello World");
             System.out.println("Hello World");
+            System.out.println(i*i);
+            System.out.println("Hello World");
+            System.out.println("Hello World");
         }
 
         }
